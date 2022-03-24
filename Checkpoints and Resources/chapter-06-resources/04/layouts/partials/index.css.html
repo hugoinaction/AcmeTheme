@@ -1,2 +1,0 @@
-{{ $css := resources.GetMatch "index.css.tpl"| resources.ExecuteAsTemplate "index.css" "nothing"}}
-{{return $css.Permalink}}

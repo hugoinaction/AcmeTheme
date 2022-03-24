@@ -1,7 +1,0 @@
-enableEmoji = true
-
-[markup.goldmark.renderer]
-unsafe = true
-
-[markup.highlight]
-lineNos = true
